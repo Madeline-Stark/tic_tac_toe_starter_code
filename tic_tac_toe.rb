@@ -47,5 +47,9 @@ class TicTacToe
         # hint: use WIN_COMBINATIONS to access elements of the @board array
         # .find might also be helpful here
     end
+    
+    def full?
+        # What enumberable (other than each, map, or collect) might be helpful here?
+    end 
 
 end
