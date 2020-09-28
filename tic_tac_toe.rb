@@ -24,5 +24,19 @@ class TicTacToe
         puts "-----------"
         puts " #{@board[6]} | #{@board[7]} | #{@board[8]} "
     end
+    
+     def turn 
+        # ask for input
+        # get input
+        # translate input into index
+        # if index is valid
+        # make the move for index
+        # show the board
+        # else
+        # ask for input again - how can we do this w/o repeating ourselves? recursion
+         # https://www.rubyguides.com/2015/08/ruby-recursion-and-memoization/
+         # https://medium.com/ambitions-of-a-recovering-salesman/3-simple-steps-for-writing-recursive-methods-in-ruby-or-any-other-language-3d6ee72c0bbc
+        # end
+    end 
 
 end
