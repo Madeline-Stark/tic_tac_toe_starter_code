@@ -30,6 +30,8 @@ class TicTacToe
     end
     
     def turn 
+        # some of the methods you've already defined could be helpful here
+        
         # ask for input
         # get input
         # translate input into index
