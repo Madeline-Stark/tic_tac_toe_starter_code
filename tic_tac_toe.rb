@@ -42,5 +42,10 @@ class TicTacToe
          # https://medium.com/ambitions-of-a-recovering-salesman/3-simple-steps-for-writing-recursive-methods-in-ruby-or-any-other-language-3d6ee72c0bbc
         # end
     end 
+    
+    def won? 
+        # hint: use WIN_COMBINATIONS to access elements of the @board array
+        # .find might also be helpful here
+    end
 
 end
