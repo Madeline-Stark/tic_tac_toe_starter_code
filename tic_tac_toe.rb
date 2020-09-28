@@ -25,7 +25,11 @@ class TicTacToe
         puts " #{@board[6]} | #{@board[7]} | #{@board[8]} "
     end
     
-     def turn 
+    def turn_count 
+        # https://apidock.com/ruby/Array/count
+    end
+    
+    def turn 
         # ask for input
         # get input
         # translate input into index
